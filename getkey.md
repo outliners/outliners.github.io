@@ -2,7 +2,7 @@
 
 本项目只为测试技术成果，你可以通过加入我们的网络社群：
 <p>
-<br>- <a href="https://t.me/joinchat/OR9CuBe7eqspLxD6u-zT8Q">出藍合作社电报組</a>
+<br>- <a href="https://t.me/outlinex">出藍合作社电报組</a>
 <br>- <a href="https://keybase.io/team/outliners">keybase 出藍合作社羣組</a>
 <br>- <a href="https://twitter.com/outline_x">推特</a>
 </p>
