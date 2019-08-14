@@ -4,7 +4,7 @@
 <center>
 <table width="798px">
 
-<tr align="center" valign="top"><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/2.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
+<tr align="center" valign="top"><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/1.png"></td><td width="33%"><img src="https://github.com/outliners/outliners.github.io/blob/master/img/2.png"></td><td width="33%"><img src="https://raw.githubusercontent.com/wgredlong/wgredlong.github.io/master/img/3.png"></td></tr>
 
 <tr align="left" valign="top"><td><font size="5">1.下载适合您设备的客户端软件并安装；</font></td><td><font size="5">2.<a href="getkey.html">加入出藍合作社申请出蓝密钥</a>；</font></td><td><font size="5">3.把密钥填入客户端开始科学上网。</font></td></tr>
 
@@ -29,7 +29,7 @@
 </tr>
 </table>
 <br>
-问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues> 
+问题提交：<https://github.com/wgredlong/wgredlong.github.io/issues>
 <br>
 应用技巧：<a href="Tips.html">导入 ShadowSocks 密钥</a>
 <br>
