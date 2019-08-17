@@ -9,4 +9,4 @@
 <div> <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/64563924-000d-4555-baf1-20586732a741"> <span>立即捐助</span> </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"> </script> </div>
 
 <br>
-<a href="https://wgredlong.github.io/">返回</a>
+<a href="https://outlinrs.github.io/">返回</a>

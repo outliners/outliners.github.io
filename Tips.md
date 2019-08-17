@@ -11,4 +11,4 @@
 
 这样，只需要一个出蓝客户端就能既使用你的出蓝密钥，也可以使用你的 ShadowSocks 密钥，简单而方便。
 
-<a href="https://wgredlong.github.io/">返回</a>
+<a href="https://outlinrs.github.io/">返回</a>

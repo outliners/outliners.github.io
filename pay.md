@@ -7,4 +7,4 @@
 刚刚知道出蓝？
 如果你希望尝试出蓝的服务，请加入我们的<a href="https://t.me/outlinex">电报群</a>，逢每周一有免费密钥发送：
 
-<br><br><a href="https://wgredlong.github.io/stablekey.html">返回
+<br><br><a href="https://outliners.github.io/stablekey.html">返回
