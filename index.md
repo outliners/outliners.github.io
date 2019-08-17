@@ -33,4 +33,5 @@
 <br>
 应用技巧：<a href="Tips.html">导入 ShadowSocks 密钥</a>
 <br>
-捐助出蓝：<a href="donate.html">捐助</a>
+
+自己架设出蓝服务器(即将推出)。
