@@ -28,10 +28,3 @@
 <td align="center"><img src="https://raw.githubusercontent.com/outliners/outliners.github.io/master/img/platform-linux.png"><br><a href="https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/stable/Outline-Client.AppImage" titel="linux v1.0.1">Linux</a></td>
 </tr>
 </table>
-<br>
-问题提交：<https://github.com/outliners/outliners.github.io/issues>
-<br>
-应用技巧：<a href="Tips.html">导入 ShadowSocks 密钥</a>
-<br>
-
-自己架设出蓝服务器(即将推出)。
