@@ -1,4 +1,4 @@
-## 谷歌鏈鋸科技（Google Jigsaw)，科学上网只需三步。
+## 出藍(Outline)來自谷歌鏈鋸科技（Google Jigsaw)，科学上网只需三步。
 <br>
 
 <center>
