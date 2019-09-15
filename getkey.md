@@ -7,6 +7,6 @@
 <li>自行架设出蓝服务器：自己動手，注冊 <a href="https://m.do.co/c/aa23a82f8f21">Digital Ocean</a> 賬戶。在2分鍾內完成出藍服務器設置，獨享所有流量。（詳細教程在此）</li>
 </ul>
 
-在这些频道中，你可以<a href="getkey.html">获取免费测试密钥</a>，并与各方群友交流或分享使用体验。你還可以追蹤<a href="https://twitter.com/outline_x">出藍推特官方</a>帳號獲取最新的優惠活動和知識分享。
+在这些频道中，你不但可以获取訪問密钥，還可以与各方群友交流或分享使用体验。也歡迎你追蹤<a href="https://twitter.com/outline_x">出藍推特官方</a>帳號獲取最新的優惠活動和知識分享。
 
 <br><br><a href="https://outliners.github.io/">返回</a>
